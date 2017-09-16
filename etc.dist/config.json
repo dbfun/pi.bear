@@ -1,0 +1,12 @@
+{
+  "toyBear": {
+    "IOPort": "6",
+    "swingDuration": "5000"
+  },
+  "telegram": {
+    "token": "your:token"
+  },
+  "web": {
+    "port": "80"
+  }
+}
